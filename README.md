@@ -14,5 +14,5 @@ curl -sSL https://raw.githubusercontent.com/MetaBooy/octawallet/refs/heads/main/
 ```
 
 #⚡ Post-Installation
-Visit octra faucet website to request faucet
+Visit octra [faucet](https://faucet.octra.network/) website to request faucet
 Paste your wallet address, solve captcha and request faucet
