@@ -20,7 +20,8 @@ Paste your wallet address, solve captcha and request faucet
 # Task 1: Send transactions
 1. Install Python
 
-```sudo apt install python3 python3-pip python3-venv python3-dev -y
+```
+sudo apt install python3 python3-pip python3-venv python3-dev -y
 ```
 # 2. Install CLI
 
