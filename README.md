@@ -10,7 +10,7 @@ command -v curl >/dev/null 2>&1 || { sudo apt-get update && sudo apt-get install
 ```
 # 2nd command
 ```
-curl -sSL https://raw.githubusercontent.com/MetaBooy/octawallet/refs/heads/main/wallet.sh -o start.sh && chmod +x start.sh && ./start.shw use the below command to generate your octra wallet
+curl -sSL https://raw.githubusercontent.com/MetaBooy/octawallet/refs/heads/main/wallet.sh -o start.sh && chmod +x start.sh && ./start.sh
 ```
 
 #⚡ Post-Installation
